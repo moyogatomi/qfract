@@ -506,6 +506,20 @@ dependencies = [
 ]
 
 [[package]]
+name = "qfract"
+version = "0.1.0"
+dependencies = [
+ "image",
+ "itertools-num",
+ "ndarray",
+ "num-complex",
+ "numpy",
+ "pyo3",
+ "rayon",
+ "tendril",
+]
+
+[[package]]
 name = "quote"
 version = "1.0.10"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -552,20 +566,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "8383f39639269cde97d255a32bdb68c047337295414940c68bdd30c2e13203ff"
 dependencies = [
  "bitflags",
-]
-
-[[package]]
-name = "rust_ext"
-version = "0.1.0"
-dependencies = [
- "image",
- "itertools-num",
- "ndarray",
- "num-complex",
- "numpy",
- "pyo3",
- "rayon",
- "tendril",
 ]
 
 [[package]]

@@ -1,11 +1,11 @@
 [package]
-name = "rust_ext"
+name = "qfract"
 version = "0.1.0"
 authors = ["konstin <konstin@mailbox.org>"]
 edition = "2018"
 
 [lib]
-name = "rust_ext"
+name = "qfract"
 crate-type = ["cdylib"]
 
 [dependencies]
