@@ -10,6 +10,11 @@ The motivation for qfract was to learn Rust and because of my fascination with f
 ## Install instructions
 
 **from source**
+
+Install rust compiler from https://www.rust-lang.org/tools/install
+
+then just clone and install package with python>=3.7
+
 ```bash
 git clone ...
 pip install setuptools_rust
