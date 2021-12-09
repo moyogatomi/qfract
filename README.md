@@ -28,6 +28,17 @@ As far as calculation is concerned:
 - Multi-core calculation with Rusts's Rayon
 - Numpy output
 
+## Examples
+
+Examples include zooming, calculation of isolated mandelbrot set,simple explorer, animated lighting
+
+
+**Run examples**
+
+```bash
+python examples/*
+```
+
 ## Sources
 I heavily relied on these sources
 
