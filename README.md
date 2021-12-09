@@ -32,6 +32,8 @@ As far as calculation is concerned:
 
 Examples include zooming, calculation of isolated mandelbrot set,simple explorer, animated lighting
 
+*To run most of the examples (animated), it is required to install opencv*
+
 
 **Run examples**
 
