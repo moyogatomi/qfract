@@ -4,7 +4,7 @@
 qfract is small library that calculates mandelbrot set and some useful properties (like surface normal) for coloring. It is written in Rust with bindings for python.
 The motivation for qfract was to learn Rust and because of my fascination with fractal coloring and due to extreme slowness of python implementation. 
 
-<img src="images/image.png" width="400"/>
+<img src="images/image.png" class="center" width="800"/>
 
 
 ## Install instructions
